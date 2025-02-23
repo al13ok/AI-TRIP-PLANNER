@@ -1,0 +1,2 @@
+# AI-TRIP-PLANNER
+AI TRIP PLANNER's Description
